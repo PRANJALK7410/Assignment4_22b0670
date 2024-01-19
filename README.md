@@ -1,0 +1,1 @@
+This is my first draft of web crawler using libraries : matplotlib.pyplot, BeautifulSoup, requests, urllib.parse , time. the customizations added are plotting, 1 second delay between requests, listing out of unique domains
